@@ -2,3 +2,12 @@
 /app20251115.py
 /appNP.py
 /app_muestradash.py
+/.venv
+/.vscode
+__pycache__/
+etc/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
